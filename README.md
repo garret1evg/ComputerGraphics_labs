@@ -6,4 +6,10 @@
 
 - [**Lab №3**](https://github.com/garret1evg/ComputerGraphics_labs/tree/master/Lab3)
 
-![gif](https://github.com/Valzavator/MAOKG/blob/master/Lab3/lab3.gif)
+![gif](https://github.com/garret1evg/ComputerGraphics_labs/blob/master/Lab3/lab3.gif)
+
+- [**Lab №4**](https://github.com/garret1evg/ComputerGraphics_labs/tree/master/Lab4)
+
+![Screenshots](https://github.com/garret1evg/ComputerGraphics_labs/blob/master/Lab4/lab4.PNG)
+
+
