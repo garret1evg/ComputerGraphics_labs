@@ -12,5 +12,10 @@
 
 ![Screenshots](https://github.com/garret1evg/ComputerGraphics_labs/blob/master/Lab4/lab4.PNG)
 
+- [**Lab №5**](https://github.com/garret1evg/ComputerGraphics_labs/tree/master/Lab5)
+
+![Screenshots](https://github.com/garret1evg/ComputerGraphics_labs/blob/master/Lab5/lab5.PNG)
+
+
 
 
