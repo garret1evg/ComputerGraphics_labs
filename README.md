@@ -16,6 +16,11 @@
 
 ![Screenshots](https://github.com/garret1evg/ComputerGraphics_labs/blob/master/Lab5/lab5.PNG)
 
+- [**Lab №6**](https://github.com/garret1evg/ComputerGraphics_labs/tree/master/Lab6)
+
+![gif](https://github.com/garret1evg/ComputerGraphics_labs/blob/master/Lab6/lab6.gif)
+
+
 
 
 
