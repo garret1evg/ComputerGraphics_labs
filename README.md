@@ -14,7 +14,7 @@
 
 - [**Lab №5**](https://github.com/garret1evg/ComputerGraphics_labs/tree/master/Lab5)
 
-![Screenshots](https://github.com/garret1evg/ComputerGraphics_labs/blob/master/Lab5/Screenshots/1.jpg)
+![Screenshots](https://github.com/garret1evg/ComputerGraphics_labs/blob/master/Lab5/Screenshots/2.jpg)
 
 - [**Lab №6**](https://github.com/garret1evg/ComputerGraphics_labs/tree/master/Lab6)
 
